@@ -1,1 +1,1 @@
-<?php echo "hello" ?> to you
+<p><?php echo "hello" ?> to you</p>
